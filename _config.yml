@@ -20,7 +20,7 @@ defaults:
     type: posts
   values:
     layout: post_en
-    permalink: '/posts_en/:title/'
+    permalink: "/posts_en/:title/"
 - scope:
     path: ''
     type: posts_en
