@@ -2,25 +2,25 @@
 title: History of Italy with Chinese Characteristics
 timezone: Europe/Rome
 collections:
-  post_cn:
+  posts_cn:
     title: Chinese Post
     output: true
   posts_en:
     title: English Posts
     output: true
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: posts_en
   values:
-    layout: post
-    permalink: "/posts/:title/"
+    layout: post_en
+    permalink: "/posts_en/:title/"
+- scope:
+    path: ''
+    type: posts_cn
+  values:
+    layout: post_cn
+    permalink: "/posts_cn/:title/"
 - scope:
     path: ''
     type: pages

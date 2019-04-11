@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-      {% include "head.liquid" %}
+      {% include head.liquid %}
     </head>
     <body class="boxed-layout">
-        {% include "header.liquid" %}
+        {% include header.liquid %}
       <div class="main-container">
-        {% for post in collections.posts.pages %}
-          {% if post.categories contains "English" %}
+        {% for post in collections.posts_en.pages %}
                 <section>
                 <div class="container">
                     <div class="row">
@@ -43,11 +42,10 @@
                 </div>
                 
             </section>
-        {% endif %}
       {% endfor %}
 
     <footer class="footer-2 bg-dark text-center-xs">
-      {% include "footer.liquid" %}
+      {% include footer.liquid %}
     </footer>
     </div>
     <script src="/assets/js/jquery.min.js"></script>

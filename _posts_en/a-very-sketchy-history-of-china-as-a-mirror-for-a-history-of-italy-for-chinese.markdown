@@ -1,7 +1,7 @@
 ---
 title: A very sketchy history of China as a mirror for a History of Italy for Chinese
 date: 2019-03-29 18:05:00 +01:00
-layout: post
+layout: post_en
 ---
 
 In all of my time as a student of China, which started in October 1979, the grand problem on the surface or hidden between the lines, has always been the same: why did China, which for most of its history was ahead of the West, suddenly lost steam and fell behind? The question is also at the root of the problems of modern China, which wants to recover the lost time and glory, and find its way back to the forefront of development and civilization.
