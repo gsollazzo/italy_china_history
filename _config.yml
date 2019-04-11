@@ -5,8 +5,11 @@ collections:
   chinese-post:
     title: Chinese Post
     output: true
-  posts:
+  posts_en:
     title: English Posts
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
