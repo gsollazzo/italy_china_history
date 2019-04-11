@@ -1,6 +1,7 @@
 ---
 title: History of Italy with Chinese Characteristics
 date: 2019-03-17 18:04:00 +01:00
+layout: post
 ---
 
 **Preface. Why this book?**
