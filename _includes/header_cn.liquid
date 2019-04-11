@@ -1,0 +1,55 @@
+<div class="nav-container">
+    <nav class="bg-dark">
+        <div class="nav-bar">
+            <div class="module left">
+                <a href="/index_cn.html">
+                    <img class="logo logo-light" alt="Foundry" src="/assets/img/logo-light-cina-chinese.png">
+                    <img class="logo logo-dark" alt="Foundry" src="/assets/img/logo-dark.png">
+                </a>
+            </div>
+            <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+                <i class="ti-menu"></i>
+            </div>
+            <div class="module-group right">
+                <div class="module left">
+                    <ul class="menu">
+
+                        <li class="has-dropdown">
+                            <a href="#">编</a>
+                            <ul>
+
+                              {% for post in collections.posts.pages %}
+                              {% if post.categories contains "Chinese" %}
+                              <li><a href="/{{ post.permalink }}">
+                                  <span class="title">{{ post.title }}</span> </a>
+                              </li>
+                              {% endif %}
+                              {% endfor %}
+
+                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="module widget-handle language left">
+                    <ul class="menu">
+                        <li class="has-dropdown">
+                            <a href="#">语言</a>
+                            <ul>
+                                <li>
+                                    <a href="/index_cn.html">汉语</a>
+                                </li>
+                                <li>
+                                    <a href="/index.html">英文</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+</div>
