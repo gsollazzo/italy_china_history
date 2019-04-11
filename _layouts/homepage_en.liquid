@@ -6,7 +6,7 @@
     <body class="boxed-layout">
         {% include header.liquid %}
       <div class="main-container">
-        {% for post in collections.posts_en.pages %}
+        {% for post in site.posts_en %}
                 <section>
                 <div class="container">
                     <div class="row">
@@ -31,7 +31,7 @@
                             </div>
                             <div class="row">
                         <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                            <a class="mb48 mb-xs-32 btn btn-lg" href="{{ post.permalink}} ">Read More</a>
+                            <a class="mb48 mb-xs-32 btn btn-lg" href="{{ post.permalink }} ">Read More</a>
                         </div>
                     </div>
                             <hr>
