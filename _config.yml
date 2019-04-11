@@ -6,7 +6,7 @@ collections:
     title: Chinese Post
     output: true
   posts:
-    title: Posts
+    title: English Posts
     output: true
   uploads:
     title: Uploads
