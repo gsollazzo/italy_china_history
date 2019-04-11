@@ -17,6 +17,12 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: posts
+  values:
+    layout: post_en
+    permalink: '/posts_en/:title/'
+- scope:
+    path: ''
     type: posts_en
   values:
     layout: post_en

@@ -18,12 +18,10 @@
                             <a href="#">编</a>
                             <ul>
 
-                              {% for post in collections.posts.pages %}
-                              {% if post.categories contains "Chinese" %}
+                              {% for post in site.posts_cn %}
                               <li><a href="/{{ post.permalink }}">
                                   <span class="title">{{ post.title }}</span> </a>
                               </li>
-                              {% endif %}
                               {% endfor %}
 
                             </ul>
