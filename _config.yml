@@ -26,13 +26,13 @@ defaults:
     type: posts_en
   values:
     layout: post_en
-    permalink: '/posts_en/:title/'
+    permalink: "/posts_en/:title/"
 - scope:
     path: ''
     type: posts_cn
   values:
     layout: post_cn
-    permalink: '/posts_cn/:title/'
+    permalink: "/posts_cn/:title/"
 - scope:
     path: ''
     type: pages
