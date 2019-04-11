@@ -2,7 +2,7 @@
 title: History of Italy with Chinese Characteristics
 timezone: Europe/Rome
 collections:
-  chinese-post:
+  post_cn:
     title: Chinese Post
     output: true
   posts_en:
