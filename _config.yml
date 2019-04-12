@@ -6,7 +6,7 @@ collections:
     title: Chinese Post
     output: true
   posts_en:
-    title: English Posts
+    title: English Chapters
     output: true
   posts:
     title: Posts
