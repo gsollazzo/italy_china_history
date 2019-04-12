@@ -3,12 +3,7 @@ title: Italy at the turn of the 1st millennium BC
 date: 2019-04-12 12:26:00 +02:00
 ---
 
-**Part I Ancient History, Italy's origin and its shaping of the Mediterranean**
-
-**Chapter 1: Italy at the turn of the 1**\*\* st \*\*\*\* millennium BC\*\*
-
 **1.1 The people of Italy at the turn of the millennium**
-
 According to a myth the name Italy comes from an ancient Italian language, possibly Etruscan1 meaning the "land of Bulls" *uitalia*. Yet the origin is still controversial. According to another Greek tradition the name comes from Italo king of the Enotrians, who ruled parts of the Peninsula, in the South, sixteen generations before the war of Troy, that would be then around 1700 BC.2
 
 It was at about that time that Italy made its first literary apparition as home of some fantastical creatures in the Odyssey, the poem attributed to Homer at the foundation of western civilization. In the poem, Italy is home of the beautiful and deceptive sirens, possibly located north of Messina, of the monsters Scylla and Charybdis, the dangerous coasts of Calabria and Sicily in their most narrow place. It hosts the god of winds and the scariest giant Cyclops, sons of the king of hell, set in antiquity in Sicily, within Mount Etna, the largest active Volcano of the Mediterranean. It was in sum for ancient Greeks a mythical place, not home of humans but of fantastic creatures.
