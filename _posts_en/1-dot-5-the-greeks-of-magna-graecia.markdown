@@ -3,10 +3,6 @@ title: 1.5 The Greeks of Magna Graecia
 date: 2019-04-13 09:27:00 +02:00
 ---
 
-1\.5 The Greeks of Magna Graecia  
-\
-
-\
 The Greeks came to southern Italy in many waves after the 8th century BC, when the Doric tribes from north of Greece took over the peninsula held by the Achaeans, also Greeks but of different stocks. It is possible that early Greek settlers arrived there one or two centuries before. After all, Ulysses, according to the Odyssey, referring to around the 12th century BC, came to Italy, where he met the monsters Scylla and Charybdis (the mythical creatures symbolizing the strong currents pushing boats against the Calabrian and Sicilian shores in the Strait of Messina) and the Cyclops, whose mythical home was close to the Etna volcano in Sicily. On both occasions, he barely survived. 
 \
 Another semi-mythical reference to a strong Greek legacy in southern Italy in the 12th century BC is the presence of the Elymians, a tribe living on the western tip of Sicily around modern Trapani. They spoke a non-Indo-European language and were said to be direct descendants of fugitives from Troy  after the destruction by the Achaeans. 
