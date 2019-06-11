@@ -258,3 +258,36 @@ date: 2019-06-11 21:37:00 +02:00
        在大约公元前2000年或者更早约公元前3000年时，巴比伦商人就开始进行风险转移和分散的操作，早期地中海地区的海上商人也会进行这一操作。当一个商人借款进行船运的时候，他会额外付给借款者一定数额的费用，换取借款者的保证，在货物被偷或在海上遭遇损失的情况下取消这笔债务。在公元前1000年，罗德岛居民创造了名为“普遍平均”的方法，多名商人可以将他们的货物放在一起运送，并缴纳一定的费用为他们的货物投保。当运输途中遭遇风暴或船体下沉需要抛弃部分货物时，这笔费用可用来赔偿受损失的商人。
     
        14世纪热那亚人进一步完善了意大利地区的保险体系，因此这一体系的应用范围进一步扩大。而且，第一次有文学作品提及保险体系，即莎士比亚的《威尼斯商人》。独立的保险合同出现了，保险单不需要再与借款或其他合同捆绑在一起了。而支持不同种类保单的是不动产的抵押。这就是现代第一个保险制度。新的保险合同将保险从投资中分离出来，而这对于海运保险来说是非常有必要的。
+
+
+[1] see http://www.atimes.com/atimes/China/CHIN-02-250613.html
+
+[2] Sarah Allan Buried Ideas (SUNY Press), 2015
+
+[3]在文艺工作座谈会上的讲话, 新华社北京10月14日电 在文艺工作座谈会上的讲话（2014年10月15日）http://news.xinhuanet.com/politics/2015-10/14/c_1116825558.htm
+
+[4] See for this section Thompson, Augustine. Francis of Assisi: A New Biography. Cornell University Press, 2012. Frugoni, Chiara. Vita di un uomo: Francesco d'Assisi. Preface by Jacques Le Goff. Torino: Einaudi, 1995.
+
+[5] For this section see Abulafia, David. Frederick II. A Medieval Emperor. Penguin Press, 1988. And Armstrong, Karen. Holy War: The Crusades and Their Impact on Today's World. Anchor Books, 2001.
+
+[6] For this section see   Aquinas, Thomas. An Aquinas Reader: Selections from the Writings of Thomas Aquinas. Ed. Mary T. Clark. Fordham University Press, 2002. Aquinas's Shorter Summa. Manchester, New Hampshire: Sophia Institute Press, 2002. Davies, Brian. The Thought of Thomas Aquinas. Oxford University Press, 1993. 
+
+[7] On this point see also Karen Armstrong's A History of God (1993) and The Great Transformation: The Beginning of Our Religious Traditions (2006).
+
+[8] Summa, I-II, Q109a1.
+
+[9] For this part see La Divina Commedia a cura di Natalino Sapegno. Milano-Napoli: Ricciardi, 1957. Auerbach, Erich. Studi su Dante. Milano: Feltrinelli, 1963. Sanguineti, Edoardo. Tre studi danteschi. Firenze: Le Monnier, 1961. Croce, Benedetto. La poesia di Dante. Bari: Laterza, 1921.
+
+[10] For this part see Vasari, Giorgio. Le vite de più eccellenti pittori, scultori e architetti, 1568. Lives of the Artists. Trans. George Bull. Penguin Classics, 1965. Sciacca, Christine. Florence at the Dawn of the Renaissance: Painting and Illumination, 1300-1500. Getty Publications, 2012. Agapiou, Natalia. L'autoritratto di Andrea Mantegna nella 'Camera dipinta' del castello di San Giorgio a Mantova: le peripezie di un motivo ornamentale. Studi Umanistici Piceni, XXXII. Bokody, Péter. "Justice, Love and Rape: Giotto’s Allegories of Justice and Injustice in the Arena Chapel, Padua." The Iconology of Law and Order. Ed. Anna Kerchy et al. JATE Press, 2012. 55-66.
+
+[11] I this part owe to Parks, Tim. Medici Money: Banking, Metaphysics, and Art in Fifteenth-Century Florence. Enterprise, 2006.
+
+[12] Hibbert, Christopher. The House of Medici: Its Rise and Fall. Morrow, 1975.
+
+[13]See also Anglo, Sydney. Machiavelli—The First Century: Studies in Enthusiasm, Hostility, and Irrelevance. Oxford University Press, 2005. Baron, Hans. The Crisis of the Early Italian Renaissance: Civic Humanism and Republican Liberty in an Age of Classicism and Tyranny. Vol. 2. 1955. Fischer, Markus. Well-ordered License: On the Unity of Machiavelli's Thought. Lexington Book, 2000. Guarini, Elena. "Machiavelli and the Crisis of the Italian Republics."  Machiavelli and Republicanism, Cambridge University Press, 1999. Gilbert, Allan. Machiavelli's Prince and Its Forerunners, Duke University Press, 1938. Gilbert, Felix. Machiavelli and Guicciardini: Politics and History in Sixteenth-Century Italy. 2nd edition. 1984
+
+[14] See Gramsci, Antonio. Il Moderno Principe. 2012.
+
+[15] See for this Nicholl, Charles Nicholl. Leonardo da Vinci: The Flights of the Mind. Penguin, 2005. Lucertini, Mario, Ana Millan Gasca, and Fernando Nicolo. Technological Concepts and Mathematical Models in the Evolution of Modern Engineering Systems. Birkhauser, 2004. Kemp, Martin. Leonardo. Oxford University Press, 2004.
+
+[16] For this part see Ackerman, James. The Architecture of Michelangelo. University of Chicago Press, 1986. Clément, Charles. Michelangelo. Harvard University, 1892 (Digitized, 2007). Condivi, Ascanio and Alice Sedgewick. The Life of Michelangelo. Pennsylvania State University Press, 1553.  Baldini, Umberto and Liberto Perugi. The Sculpture of Michelangelo. 1982.
