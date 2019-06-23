@@ -2,7 +2,7 @@
 title: |-
   Part II: The Rise and Fall of Italy, its City-States and eventual Loss of Centrality of the Mediterranean
 
-  Chapter 6: Wastland Italy of the high Middle Ages, and the beginning of its rebirth
+  Chapter 6: Wasted Italy of the high Middle Ages, and the beginning of its rebirth
 date: 2019-05-22 08:42:00 +02:00
 ---
 
