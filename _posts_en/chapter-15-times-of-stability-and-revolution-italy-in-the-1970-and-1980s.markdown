@@ -3,13 +3,14 @@ title: 'Chapter 15: Times of stability and revolution: Italy in the 1970 and 198
 date: 2019-07-23 19:32:00 +02:00
 ---
 
-15.1 The complex system of power of the Christian Democrats
+
+15\.1 The complex system of power of the Christian Democrats
 
 The Christian Democrats headed the greatest period of economic, social, and political development in the history of modern Italy, which eventually finished with the end of the Cold War in the early 1990s. They achieved this success thanks to a combination of factors. They were the first to harness for the good of the country the forces of Catholic culture and tradition. By striking a difficult but very precious middle ground between the interests of the common people and the capitalists, the DC started important land reforms, empowering small farmers all over Italy.
 
 Farms appropriated from the large landowners were parceled out to the peasants. In addition, during their years in office, the Christian Democrats passed a number of laws safeguarding employees from exploitation, established a national health service, and initiated low-cost housing in Italy’s major cities.
 
-The DC furthered policies assisting the growth of SMEs, which were to become the backbone of Italian economy. These policies were partly consistent with demands of the PCI for the poor in the central and northern regions they administered, and because of that they took the wind from the sails of the communists in two ways: Common people in communist regions didn’t see many policy differences with DC; and the PCI was nudged away from the radical Stalinist policies and toward policies that created and favored small ownership rather than the abolition of property. 
+The DC furthered policies assisting the growth of SMEs, which were to become the backbone of Italian economy. These policies were partly consistent with demands of the PCI for the poor in the central and northern regions they administered, and because of that they took the wind from the sails of the communists in two ways: Common people in communist regions didn’t see many policy differences with DC; and the PCI was nudged away from the radical Stalinist policies and toward policies that created and favored small ownership rather than the abolition of property.
 
 In the end, in many although not all cases, the struggle between DC and PCI became based not on policies but on affiliation, almost like rooting for one football team or another. In this the DC masterfully kept in line with the interests of the Catholic Church, as many popes took a direct interest in following Italian politics, and the interests of the United States, Italy’s paramount ally. By doing this, the DC also brought the US closer to the Vatican, something that did not have many precedents, since the US was founded mostly by protestants fleeing religious persecution in Europe and thus deeply suspicious of the Pope's overarching reach.
 
@@ -17,7 +18,7 @@ The US and the Vatican found they were each other's best allies against a common
 
 Alcide De Gasperi dominated the party until 1954, the year of his death, when the young Amintore Fanfani stepped in. Fanfani argued in favor of greater state intervention in the economy, distancing from the body of the industrialists, the Confindustria, and most importantly beefing up the party organization, which previously largely depended on the Church Catholic association, “Azione Cattolica”. The party in those years also started promoting a welfare system extending to all citizens, whereas previously it was limited to people fully employed.
 
-In 1960 and 1961, Fanfani and new party secretary Aldo Moro went to explore the possibility of having the socialists join the government. Importantly, in 1961 US President John Kennedy declared he was open to the idea and in many municipalities the socialists joined in the local administration. In January 1962 Moro won the party congress by a landslide on the issue of opening to the socialists. Although the socialists only joined the government at the end of 1963, and with many difficulties, a vast program of reforms was pushed ahead. Electric companies were nationalized and incorporated into one power agency, and the mandatory schooling was extended to the 8th grade.
+In 1960 and 1961, Fanfani and new party secretary Aldo Moro went to explore the possibility of having the socialists join the government. Importantly, in 1961 US President John Kennedy declared he was open to the idea and in many municipalities the socialists joined in the local administration. In January 1962 Moro won the party congress by a landslide on the issue of opening to the socialists. Although the socialists only joined the government at the end of 1963, and with many difficulties, a vast program of reforms was pushed ahead. Electric companies were nationalized and incorporated into one power agency, and mandatory schooling was extended to the 8th grade.
 
 These reforms brought a split at the heart of the DC and its coalition government. The right-wingers, both in the DC and in allied parties, like the liberals of the PLI, were wary of changes that took away power and resources from private groups and extended free benefits to the underprivileged, thus draining state resources. They thought these reforms were the opening for a communist take over. The left-wingers, again both in the DC and in allied parties like the socialists, pressed to extend the new Italian well-being to the poor and grant more opportunities for advancement, seeing in this the best strategy to undermine growing communist demands and pressure.
 
@@ -27,17 +28,13 @@ More than any other party, the DC, torn more than ever between left and right, e
 
 On December 12, 1969 a bomb went off in a branch of the Agricultural Bank in Milan's central Fontana Square, killing 17 and wounding 88. It was the first massive action, after a year of tough confrontations between police on one side and workers and students on the other. At first the inquiry focused on left-wing anarchists, but in the following months and years, it became clear that it had been set up by neo-fascists aided by rogue elements in the Italian intelligence community.
 
-Things with the investigation into the bombing immediately went amok as on December 15 anarchist Pino Pinelli died falling from a window while being detained by the police detective Luigi Calabresi. The suspicious death was soon blamed on police foul play. This and the increasingly fishy nature of the bombing pushed elements in the extreme left to think the DC was actually attempting to physically eliminate the opposition, just as some governments were doing in Latin America. To this, leftists thought the answer was to move the armed struggle, and reply to terror with terror. They were also prodded by agents of the USSR who wanted to turn Italy into a quagmire in which to bog down NATO and the US.
+Things with the investigation of the bombing immediately went amok as anarchist Pino Pinelli died on December 15 falling from a window while being detained by the police detective Luigi Calabresi. The suspicious death was soon blamed on police foul play. This and the increasingly fishy nature of the bombing pushed elements in the extreme left to think the DC was actually attempting to physically eliminate the opposition, just as some governments were doing in Latin America. To this, leftists thought the answer was to move the armed struggle, and reply to terror with terror. They were also prodded by agents of the USSR who wanted to turn Italy into a quagmire in which to bog down NATO and the US.
 
 The prize was huge because Italy was home of the Vatican, which had been playing a huge role in the Soviet camp, and because of its geographical position. If Italy had been destabilized, NATO would be crippled on both the eastern and southern fronts. The loss of Italy would be many times more dangerous and threatening than that of Cuba or Vietnam, where a bloody civil war was going on. At the same time, if Italy had ceded to pressures to contrast communist extremists by moving to authoritarianism, it would have played into the hands of the Soviets, who were arguing that the West's only response to social demands was to slip into fascism.
 
 The immense contribution of the DC and the church to that historical moment was to stay the middle course and balance these opposite forces. This was theorized in the policy against “opposite extremisms.” In these very choppy waters the DC managed to navigate Italy without falling into fascism or a communist takeover.
 
- 
-
-15.2 The rise of the ’68 student movement
-
- 
+15\.2 The rise of the ’68 student movement
 
 Historians are still unclear exactly why around 1967 to 1969 almost the whole world was engulfed in a wave of student protests. Definitely in the US there was the opposition to the draft for the growing Vietnam War. There was the ripple effect of the hazy yet fascinating Cultural Revolution in China. There were the new openings to civil society by the Catholic Church after the Vatican Council II, held in Rome in the mid-1960s. There was a new idea of being communist and in favor of social demands that were blossoming out of the traditional communist parties and their ideology was not clearly part of Soviet national geopolitics.
 
@@ -67,11 +64,7 @@ Yet for all its impact in the streets and on the public opinion, the movement ha
 
 On the other hand, votes were only part of the issue, because in those years communist ideas largely managed to gain a cultural hegemony in Italy and thus drive the political and social debate. This didn’t translate into political leadership because Moro, with one more of his strokes of genius, had changed the rules of the game by inventing the Historic Compromise with communist party secretary Enrico Berlinguer.
 
- 
-
-15.3 The Historic Compromise and the strategy of black and red terror
-
- 
+15\.3 The Historic Compromise and the strategy of black and red terror
 
 The 1973 coup in Chile against left-wing president Salvador Allende and the following brutal crackdown sent shock waves down the spines of the Italian communists. The PCI's votes had been growing, cashing in on the student movement sweeping the country at the time. But the Chile coup sent a very clear message: even if the PCI were to win the majority in democratic elections, the US and NATO would not allow it to take power, as the PCI was an instrumental part of the Soviet Cold War strategy. Therefore the issue was not simply Italian politics but international politics. To start building bridges with the Americans, Berlinguer, the party leader at the time, opened to collaboration with NATO in four articles published in 1974 in the party's theoretical journal, Rinascita. The proposal opened a huge debate within and outside of Italy.
 
@@ -95,11 +88,7 @@ Italy was on the brink of civil war and at the border of a global war. With the 
 
 Moro and the DC tried to channel into mainstream society the reasonable and undeniable social demands coming from every walk of life and transform those demands into positive energy for the society rather than disruptive and revolutionary forces. In sum, both PCI and DC had converging aims in an extremely volatile internal and international situation. This convergence was extremely important to defeat mounting terrorism from the right but also from the left.
 
- 
-
-15.4 The Red Brigades and the kidnapping of Aldo Moro in 1978
-
- 
+15\.4 The Red Brigades and the kidnapping of Aldo Moro in 1978
 
 Neo-fascists were not alone in moving for a revolutionary solution in Italy. The extreme left drew the parallel yet opposite conclusion. If fascists were so nervous and active as to try to terrorize people back into order, then the conditions for revolution were actually ripe. We saw that in the late 1960s the extra-parliamentary left was going to demonstrations ready to confront and fight the police. Yet a change occurred in the early 1970s when some militants went underground and moved to countries under the USSR umbrella for guerrilla training. The most notable of them was the famous and extremely wealthy publisher Giangiacomo Feltrinelli who in 1970 organized the GAP (Groups of Partisan Action) and died in 1972 from the blast of a bomb he was planting on a power pole. In Genoa in 1970 a group of ex-partisans and workers kidnapped a rich heir for ransom. Others took to burglaries and heists to self-finance the organization and “gradually dismantle state powers,” as the slogan at the time claimed.
 
@@ -129,11 +118,7 @@ The DC-PCI government had registered a severe military failure but scored a majo
 
 The murder of Aldo Moro turned a page on the history of political protest in Italy.
 
- 
-
-15.5 The defeat of the Red Brigades while keeping a democratic system
-
- 
+15\.5 The defeat of the Red Brigades while keeping a democratic system
 
 After Moro’s assassination, the reaction of the state was not rushed but methodical. The trade unions, loyal to the PCI, helped to isolate and expel from the organization the most radical, militant workers who were liable to be supportive of the BR. The police started investigating without seeking fast results and refusing to go beyond certain limits. Della Chiesa was quoted as saying that the Italian state could survive the murder of Moro, but could not survive the reintroduction of torture.
 
@@ -163,11 +148,7 @@ In the 1980s, Italian terrorism receded and Italy saved its democracy, but a cob
 
 In the meantime three more events came to help and complicate things in Italy: the new rise and aggression of the Mafia in the south; the election of the first Pope from the Eastern bloc, projecting Italy even more to the forefront of the Cold War; and the new booming economy. We shall start from this last part.
 
- 
-
-15.6 Italy's economic superpower and the start of the great debt crisis
-
- 
+15\.6 Italy's economic superpower and the start of the great debt crisis
 
 In about ten short years, in all the 1980s, Italian public debt ballooned from less than 60% of the GDP in 1981 to over 120% of GDP by the early 1990s. In those ten years of profligate public spending are the roots of all the problems that have beset Italy in the past 20 years. In those years, also in order to take away the social reasons for terrorism, Italy set up a new social pact providing for the common people and thus convincing them that reform of the old capitalist state worked better than revolution.
 
@@ -195,11 +176,7 @@ It was a special moment for Berlusconi who was extremely capable in collecting n
 
 Politics became a constant in-fight for small posts acquisition, a trench war justified by small vote swings in local elections and fueled by unending state handouts. It seemed as if nothing could change the system. Yet the system hinged on the division of the Cold War, and the prohibition of the communists to openly join the government. Once the Cold War ended, all bets were off.
 
- 
-
-15.7 Pope Wojtyla smashing communism in the USSR, but keeping it in Cuba
-
- 
+15\.7 Pope Wojtyla smashing communism in the USSR, but keeping it in Cuba
 
 In 1978, shortly after Moro’s assassination Pope Paul VI also passed away. A new pope was soon elected, taking the name of John Paul, indicating he wanted to be innovative like John XXIII, who started the Vatican Council II, and cautious like Paul, the pope that had just passed away. Yet after a month the new pope also died, arousing all kinds of suspicions in a moment of extreme violence and volatility. Had he been poisoned? And if so, why? No official explanation managed to dispel the qualms surrounding the event.
 
@@ -207,9 +184,7 @@ Popular films have been spun around this mysterious death, like The Godfather 3.
 
 The news came as to a shock to the world and was taken by Moscow almost as an open declaration of war. Religion had always been the weak spot of the USSR, and fervently Catholic Poland, the largest country of the Eastern bloc, was the weakest spot. In fact, there is widespread agreement in crediting this pope with being instrumental in bringing down communism in Eastern Europe. He was the spiritual inspiration behind its downfall and the catalyst for "a peaceful revolution" in Poland. Lech Walesa, the founder of Solidarity, the workers’ movement that first pushed for more reforms in Poland in 1980, said the pope gave Poles the courage to demand change. It is widely believed that the Vatican Bank, IOR, directly financed activities in Eastern Europe or channeled funds there.
 
-Historian Timothy Garton Ash wrote, “No one can prove conclusively that he was a primary cause of the end of communism. However, the major figures on all sides—not just Lech Walesa, the Polish Solidarity leader, but also Solidarity's arch-opponent, General Wojciech Jaruzelski; not just the former American president George Bush Senior but also the former Soviet president Mikhail Gorbachev—now agree that he was. I would argue the historical case in three steps: without the Polish Pope, no Solidarity revolution in Poland in 1980; without Solidarity, no dramatic change in Soviet policy towards eastern Europe under Gorbachev; without that change, no velvet revolutions in 1989[1]." Also Gorbachev admitted later that the collapse of the Iron Curtain would have been impossible without the pope.
-
- 
+Historian Timothy Garton Ash wrote, “No one can prove conclusively that he was a primary cause of the end of communism. However, the major figures on all sides—not just Lech Walesa, the Polish Solidarity leader, but also Solidarity's arch-opponent, General Wojciech Jaruzelski; not just the former American president George Bush Senior but also the former Soviet president Mikhail Gorbachev—now agree that he was. I would argue the historical case in three steps: without the Polish Pope, no Solidarity revolution in Poland in 1980; without Solidarity, no dramatic change in Soviet policy towards eastern Europe under Gorbachev; without that change, no velvet revolutions in 1989\[1\]." Also Gorbachev admitted later that the collapse of the Iron Curtain would have been impossible without the pope.
 
 But the pope's actions were not isolated. The American military build up had pushed the USSR to follow in pursuit, and this had strained the already weak Soviet resources. One can put it in a nutshell: bad material conditions plus pressure from the common people seeking more freedom plus the Soviet leaders confusion over how to respond to these threats made the poisonous combination that eventually brought down the Soviet empire in 1989. Yet it is important to consider that the Reagan administration with its anti-communist drive came to power after Wojtyla had already started pushing the Soviet envelope.
 
@@ -221,19 +196,15 @@ Agca was caught and restrained by a nun and other bystanders until police arrive
 
 The USSR always denied any role in the attack, but the global impact in turning sentiments against the Soviets was evident. The pope was an anti-communist martyr. The attempt on and the recovery of the pope further encouraged people in the Eastern bloc to rebel to communism.
 
-Yet when communism was eventually faltering in the USSR itself in the early 1990s some differences arose with the US. While Bush administration didn’t want to take any risks with the Soviet Union and pushed for the disintegration of the USSR under Boris Yeltsin, the Vatican would have preferred to work with Gorbachev. In fact while communism soon disappeared from the Eastern European bloc, the Vatican maintained ties with communist Cuba and allegedly helped the Cuban cause with US. More than a decade later, this precedent of subtle policy helped the Holy See to improve ties with communist China and Vietnam.
+Yet when communism was eventually faltering in the USSR itself in the early 1990s some differences arose with the US. While Bush administration didn’t want to take any risks with the Soviet Union and pushed for the disintegration of the USSR under Boris Yeltsin, the Vatican would have preferred to work with Gorbachev. In fact, while communism soon disappeared from the Eastern bloc, the Vatican maintained ties with communist Cuba and allegedly helped the Cuban cause with US. More than a decade later, this precedent of subtle policy helped the Holy See to improve ties with communist China and Vietnam.
 
- 
-
-15.8 Mafia threatens Italy and is defeated
-
- 
+15\.8 Mafia threatens Italy and is defeated
 
 While Italy was fighting for its life in the 1970s and 1980s, few paid attention to an old phenomenon that had become some kind of myth for the children to talk about, like the mysterious Loch Ness monster or the hideous Yeti. Was the Mafia actually real, or was it a story told to scare the foreigners?
 
 In the early 1980s magistrates Giovanni Falcone and Paolo Borsellino again started working on the Mafia, which alas, was not a new phenomenon but had been festering for many decades. Besides the active return of the old Mafia in Naples, the old Camorra reorganized along Sicilian lines; so did the ‘Ndrangheta in Calabria. In Puglia the new organization Nuova Corona Unita ("new united crown") appeared out of nowhere. Most of southern Italy was in the hands of criminal organizations in the 1980s and in the early 1990s. The spread of crime was unprecedented. It all started with the rise of the Mafia in western Sicily, which was underestimated for many years.
 
-In the mid-1950s two local officials with Mafia connections, Vito Ciancimino and Salvatore Lima, took control of Palermo's Office of Public Works. Between 1959 and 1963, about 80% of building permits were given to just five people, none of whom represented major construction firms but who were probably Mafia front-men[2].
+In the mid-1950s two local officials with Mafia connections, Vito Ciancimino and Salvatore Lima, took control of Palermo's Office of Public Works. Between 1959 and 1963, about 80% of building permits were given to just five people, none of whom represented major construction firms but who were probably Mafia front-men\[2\].
 
 Construction companies unconnected with the Mafia were forced to pay protection money. Many buildings were illegally constructed before the city's planning was finalized. Mafiosi scared off anyone who dared to question their building frenzy. The result of this was the demolition of many historic buildings and the erection of many new and often substandard apartment blocks. Yet, Palermo was not alone in this. Similar phenomena were occurring in many cities, especially in southern Italy. The 1963 Francesco Rosi’s movie Mani sulla città ("hands over the city") denounces this phenomenon in Naples, still it was widespread in a moment of unbridled growth of the Italian economy and not necessarily linked to organized crime.
 
@@ -265,7 +236,7 @@ It could have been the end, at least temporarily for the Mafia, but this time th
 
 Judges, prosecutors, and anti-Mafia businessmen were murdered, but the key moment was the assassination in Palermo on March 12, 1992 of local DC leader Salvatore Lima, a political ally of the Mafia, a friend of Italian Prime Minister Giulio Andreotti, for failing to reverse the convictions of the Maxi Trial.
 
-The night of the assassination, I was working a night shift for ANSA in Rome, and driving to the office through the city center, I saw the city packed with police and soldiers in high alert, as during the years of terrorism over a decade before. As Mafia had killed Lima, they might as well kill Andreotti. After all, they were richer and more organized than the BR that had kidnapped and killed Moro.
+The night of the assassination, I was working a night shift for ANSA (Italian National News Agency) in Rome, and driving to the office through the city center, I saw the city packed with police and soldiers in high alert, as during the years of terrorism over a decade before. As Mafia had killed Lima, they might as well kill Andreotti. After all, they were richer and more organized than the BR that had kidnapped and killed Moro.
 
 Italy was stunned, yet Lima was a corrupt politician and had it coming felt many who were still unclear about the where the Mafia wanted to go from that. Before long Falcone and Borsellino were also killed by bombs the same year. This led to a public national and international outcry and a massive government crackdown, resulting in the arrest of Salvatore Riina in January 1993. The Mafia also failed to see that with the end of the Cold War there was no longer any interest for the Italian government or its international allies to keep Sicily as a gray area to hold back communism in Italy. In the following years, one after the other, more Mafia bosses were arrested, pushing back the power of Sicilian Mafia.
 
@@ -273,11 +244,6 @@ In the same years, criminal organizations sprang back mainly around Naples and i
 
 A new page in fact had turned, and the end of the Cold War brought about the end of the old political system that ruled Italy for half a century. It was the end of the first republic.
 
- 
+\[1\] "The first world leader." The Guardian. April 4, 2005. Retrieved November 4, 2013.
 
- 
-
-
-[1] "The first world leader." The Guardian. April 4, 2005. Retrieved November 4, 2013.
-
-[2] For this part see Dickie, John. Cosa Nostra: A History of the Sicilian Mafia. 2007. Hodder, Arlacchi, Pino. Mafia Business. The Mafia Ethic and the Spirit of Capitalism, Oxford: Oxford University Press. 1988. Falcone, Giovanni, with Marcelle Padovani. Cose di Cosa Nostra. Milan: BUR.
+\[2\] For this part see Dickie, John. Cosa Nostra: A History of the Sicilian Mafia. 2007. Hodder, Arlacchi, Pino. Mafia Business. The Mafia Ethic and the Spirit of Capitalism, Oxford: Oxford University Press. 1988. Falcone, Giovanni, with Marcelle Padovani. Cose di Cosa Nostra. Milan: BUR.
